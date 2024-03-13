@@ -1,1 +1,1 @@
-Deep learning for Natural Language processing
+Deep learning for natural language processing and computer vision
